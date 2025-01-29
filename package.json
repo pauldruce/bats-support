@@ -1,6 +1,6 @@
 {
   "name": "@pauldruce/bats-support",
-  "version": "0.3.0",
+  "version": "0.3.0-example",
   "description": "Supporting library for Bats test helpers",
   "homepage": "https://github.com/bats-core/bats-support#readme",
   "license": "CC0-1.0",
